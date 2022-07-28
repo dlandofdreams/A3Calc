@@ -44,3 +44,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [ ] learn how to format
 - [ ] update to function
 - [ ] polish
+
+
+<select>
+  <option>option1</option>
+  <option>option2</option>
+  <option>option3</option>
+</select>
